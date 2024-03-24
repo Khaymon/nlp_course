@@ -1,0 +1,4 @@
+traindir
+
+*.csv
+*.spacy
